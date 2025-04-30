@@ -27,19 +27,12 @@
 
 ### Tools & Platforms:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-<p align="center">
-  <img src="https://i.imgur.com/XYZ1234.jpg" alt="Gojo Satoru" width="200" style="border-radius: 50%;">
-</p>
-
-
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 💬 My Motivation Quote
 > "Do your best no matter what. Don't compare, talk, just do all your best"
+> 
+https://images4.alphacoders.com/133/1332281.jpeg
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-https://images4.alphacoders.com/133/1332281.jpeg
