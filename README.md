@@ -36,8 +36,5 @@ https://images4.alphacoders.com/133/1332281.jpeg
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-## 🌟 My Contributions
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=nightowl&animation=true)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
