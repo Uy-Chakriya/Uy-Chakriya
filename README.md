@@ -2,7 +2,7 @@
 
 💻 Frontend Developer 
 🌱 Learning FULL STACK 
-⚡ Fun fact: Smile when somthing coming hard
+⚡Unstoppable 
 
 ## 🛠️ Skills
 
