@@ -28,6 +28,8 @@
 ### Tools & Platforms:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
+![Gojo Satoru](https://github.com/yourusername/yourusername/blob/main/gojo.jpg?raw=true)
+
 
 
 ## 📊 GitHub Stats
