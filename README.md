@@ -27,8 +27,9 @@
 
 ### Tools & Platforms:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-![Gojo Satoru](https://github.com/yourusername/yourusername/blob/main/gojo.jpg?raw=true)
+<p align="center">
+  <img src="https://i.imgur.com/XYZ1234.jpg" alt="Gojo Satoru" width="200" style="border-radius: 50%;">
+</p>
 
 
 
