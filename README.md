@@ -40,5 +40,6 @@
 > "Do your best no matter what. Don't compare, talk, just do all your best"
 
 ## 📫 How to reach me
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+https://images4.alphacoders.com/133/1332281.jpeg
